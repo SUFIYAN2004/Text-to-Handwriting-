@@ -29,6 +29,6 @@ streamlit run app.py
 
 🎨 Want Custom Fonts?
 You can create your own handwriting font with Calligraphr.
-
+```
 🧠 Author
 Built with ❤️ by Sufiyan
