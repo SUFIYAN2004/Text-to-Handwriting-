@@ -27,8 +27,8 @@ Convert typed text into handwriting-style images using custom fonts with Python 
 pip install -r requirements.txt
 streamlit run app.py
 
-🎨 Want Custom Fonts?
-You can create your own handwriting font with Calligraphr.
+## 🎨 Want Custom Fonts?
+- You can create your own handwriting font with Calligraphr.
 ```
-🧠 Author
-Built with ❤️ by Sufiyan
+## 🧠 Author
+- Built with ❤️ by Sufiyan
